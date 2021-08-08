@@ -1,0 +1,7 @@
+*.pyc
+*.pyo
+
+.vscode/
+checkpoints/
+Synchronized-BatchNorm-PyTorch/
+**/__pycache__/

@@ -1,0 +1,1 @@
+Attempt at boilerplate for large-scale semantic segmentation project, written before pytorch-lightning was a thing. Completely obsolete now, do not use.
